@@ -1,5 +1,4 @@
-<video width="100%" height="50%" controls autoplay>
-<source src="./banner.mp4" type="video/mp4>
+<img width="100%" src="./banner.gif">
 
 
           

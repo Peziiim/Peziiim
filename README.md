@@ -1,5 +1,5 @@
 <!---Header---->
-<img width="82%" src="./banner.jpeg">
+<img width="100%" src="./banner.jpeg">
 <a href="github.io/Peziiim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peziiim&hide=prs,issues&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peziiim&layout=compact&langs_count=16&theme=transparent"/>

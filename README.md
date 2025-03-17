@@ -1,7 +1,4 @@
-<img width="100%" src="./banner.gif">
 
-
-          
 <a href="github.io/Peziiim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peziiim&hide=prs,issues&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peziiim&layout=compact&langs_count=16&theme=transparent"/>
@@ -16,4 +13,9 @@
   <img align="right" height="70" src="./shadow.gif">
 </div>
   <hr>
-</body>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peziiim/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/Peziiim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/Peziiim/output/github-contribution-grid-snake.svg">
+</picture>

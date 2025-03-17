@@ -1,4 +1,5 @@
 <!---Header---->
+<img width="82%" src="./banner.jpeg">
 <a href="github.io/Peziiim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peziiim&hide=prs,issues&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peziiim&layout=compact&langs_count=16&theme=transparent"/>
@@ -11,7 +12,7 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"  style="max-width: 100%;">
-  <img align="right" height="80" src="./shadow.gif">
+  <img align="right" height="100" src="./shadow.gif">
 </div>
   <hr>
 <div>

@@ -15,7 +15,7 @@
 </div>
   <hr>
 <div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
     <td>
       <br />
       <img
@@ -25,18 +25,7 @@
       />
     </td>  
 </div>
-  <div>
-  <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Peziiim&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+
   
   </div>
 </div>

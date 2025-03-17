@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Im+Peziiim%2C+a+tech+frog+and+a+Wizard+Master+wannabe+%E2%9C%A9" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Im+Peziiim%2C+a+tech+frog+and+a+Wizard+Master+wannabe+%E2%9C%A9" width="70%" />
+
+<pre align="center"  height="60" >
+ 💻 Software Developer FullStack * 3D artist * Wannabe a GameDev 💻
+</pre>
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Peziiim&hide=prs,issues&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peziiim&layout=compact&langs_count=16&theme=transparent"/>
@@ -24,7 +28,7 @@
     <td>
       <br />
       <img
-       width="450px"
+       width="500px"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Peziiim&theme=dark&hide_border=false"
         alt="Github Stats"

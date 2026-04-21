@@ -1,14 +1,14 @@
 
 
-<!---Languages---->
-<div dir="auto"><br>
- <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" style="max-width: 100%;"></a> -
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="max-width: 100%;"> -
- <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"> -
- <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"> -
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"  style="max-width: 100%;"> -
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" /> -
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="max-width: 100%;" />
+
+<div ><br>
+ <img align="center"  height="30" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" style="max-width: 100%;"></a> 
+ <img align="center" height="30" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="max-width: 100%;"> 
+ <img align="center" height="30" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"> 
+ <img align="center" height="30"width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"> 
+ <img align="center" height="30" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"  style="max-width: 100%;"> 
+ <img align="center" height="30" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" /> 
+ <img align="center" height="30" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="max-width: 100%;" />
  <img align="right" height="100" src="./shadow.gif">
 </div>
 
@@ -22,16 +22,7 @@
   
 <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
-    <td>
-      <br />
-      <img
-       width="450px"
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Peziiim&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>  
-</div>
+
 
   
   </div>
